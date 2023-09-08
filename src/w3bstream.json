@@ -1,0 +1,26 @@
+{
+  "name": "w3bstream",
+  "type": 1,
+  "icon": "hub",
+  "class_name": "w3bstream",
+  "module": "w3bstream",
+  "cloud": false,
+  "support_autoupdate": false,
+  "mac_address": false,
+  "capabilities": [],
+  "sort_index": 1,
+  "settings": [
+    {
+      "key": "url",
+      "name": "URL",
+      "type": "text",
+      "required": true
+    },
+    {
+      "key": "api_key",
+      "name": "API key",
+      "type": "text",
+      "required": true
+    }
+  ]
+}
